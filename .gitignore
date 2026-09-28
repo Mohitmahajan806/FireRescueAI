@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+*.pt
+output_recordings/*
+!output_recordings/.gitkeep
+screenshots/*
+!screenshots/.gitkeep
+sample_videos/*
+!sample_videos/.gitkeep
+.DS_Store
